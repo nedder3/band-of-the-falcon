@@ -9,12 +9,12 @@
     object-fit: contain;
   }
 
-  body {
-    background-color: #212529; /* Establece el color de fondo negro para el HTML */
-  }
+body{
+    background-color: #cecfd1;
+}
   
   .opacity-img {
-    opacity: 0.7; /* Ajusta el valor según la opacidad deseada (0.0 a 1.0) */
+    opacity: 0.9; /* Ajusta el valor según la opacidad deseada (0.0 a 1.0) */
   }
 
   .text-overlay {
